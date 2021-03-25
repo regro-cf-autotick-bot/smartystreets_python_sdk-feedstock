@@ -10,6 +10,7 @@ source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/smartystreets_python_sdk-{{ version }}.tar.gz
   sha256: 0981b17b6e9ffefb47758882fdf82e3f0fb88a389e7223f431fd702bd0025216
 
+
 build:
   number: 0
   noarch: python
@@ -18,9 +19,9 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=2.7*|>=3.5.*
   run:
-    - python
+    - python >=2.7*|>=3.5.*
     - requests
 
 test:
