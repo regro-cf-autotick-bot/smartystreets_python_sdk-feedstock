@@ -5,7 +5,7 @@ Home: https://github.com/smartystreets/smartystreets-python-sdk
 
 Package license: Apache-2.0
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smartystreets_python_sdk-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smartystreets_python_sdk-feedstock/blob/main/LICENSE.txt)
 
 Summary: An official library to help Python developers easily access the SmartyStreets APIs
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12023&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/smartystreets_python_sdk-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=12023&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/smartystreets_python_sdk-feedstock?branchName=main">
       </a>
     </td>
   </tr>
