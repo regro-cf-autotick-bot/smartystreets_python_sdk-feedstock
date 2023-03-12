@@ -1,11 +1,11 @@
-About smartystreets_python_sdk
-==============================
+About smartystreets_python_sdk-feedstock
+========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smartystreets_python_sdk-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/smartystreets/smartystreets-python-sdk
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smartystreets_python_sdk-feedstock/blob/main/LICENSE.txt)
 
 Summary: An official library to help Python developers easily access the SmartyStreets APIs
 
